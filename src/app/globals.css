@@ -134,7 +134,7 @@ input:focus {
   min-width: 0;
 }
 
-/* ASCII waveform */
+/* Waveform */
 .ascii-waveform-canvas {
   position: fixed;
   bottom: 0;
